@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+#header-nav {
+  background-color: #8EE5EE;
+}
+
+.navbar-brand {
+  padding-top: 5px;
+  color:red;
+}
+
+
+body {
+  font-family: Helvetica;
+  font-size: initial;
+}
+
+h1 {
+  text-transform: capitalize;
+  text-align: center;
+  font-family:cursive,Georgia,Serif;
+  font-size: 2em;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+
+
+video{
+  width:95%;
+}
+
+h2 {
+  width: 33%;
+  margin: 10px auto;
+  padding: 2px 0;
+  font-size: 1.50em;
+
+  text-transform: capitalize;
+  text-align: center;
+  
+}
+
+p {
+  margin-top: 5px;
+  padding: 15px;
+  padding-bottom: 15px;
+}
+
+/* FOOTER */
+.panel-footer {
+  margin-top: 15px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  background-color: #222;
+  border-top: 0;
+}
+#words{
+  font-size: 1.5em;
+  color:white;
+}
+button{
+  margin: 1px;
+  margin-top: 5px;
+}
+/* END FOOTER */
